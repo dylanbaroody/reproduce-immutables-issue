@@ -3,6 +3,7 @@ package org.dylan;
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
+import org.dylan.band.BandPlot;
 import org.immutables.value.Value;
 
 /**
